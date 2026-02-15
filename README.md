@@ -22,7 +22,7 @@ Um assistente simples de terminal que permite conversar com ChatGPT usando voz, 
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/assistente-voz-chatgpt.git
+git clone https://github.com/Dadson097/Desafio-DIO-Bradesco-Conversando-com-o-CHATGPT.git
 cd assistente-voz-chatgpt
 
 # 2. Instale as dependências
