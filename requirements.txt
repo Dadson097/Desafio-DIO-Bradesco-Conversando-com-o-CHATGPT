@@ -1,0 +1,7 @@
+## 📄 **Arquivo: requirements.txt**
+
+```txt
+openai>=1.0.0
+openai-whisper>=20231117
+gtts>=2.4.0
+pyaudio>=0.2.11
